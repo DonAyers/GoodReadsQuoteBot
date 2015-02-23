@@ -1,5 +1,5 @@
 # GoodReadsQuoteBot
-Check out the An [Demo Here](http://www.askkafka.com/quotes/)
+Check out the [Demo Here](http://www.askkafka.com/quotes/)
 
 This was a project that started when I tried to make a random quote generator for any author one could think of.
 Goodreads has an API but it is does not support anything like this. You can search for quotes by author or subject on their site, 
