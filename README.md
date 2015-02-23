@@ -9,7 +9,7 @@ so from this I used  **PHP** and its **Dom** functions to scraped and parse the 
 You can Download the resulting array of qoutes in a convienent JSON file for now.
 
 ### jQuery
-Just for fun I added som animations and loading effects to make the UX a little nicer.
+Just for fun I added some animations and loading effects to make the UX a little nicer.
 
 ### Planned improvements
 I plan to make this into a wordpress plugin eventually that will generate a random quote from the author or subject of your choice.
